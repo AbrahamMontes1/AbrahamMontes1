@@ -1,17 +1,16 @@
 <h1 align="center">Hola, Soy Abraham, un gusto en saludar!</h1>
-<h3 align="center">A passionate Mobile App developer from Pune India</h3>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
+- 🔭 Me encuentro terminando un bootcamp en tecnología en TripleTen!
 
-- 🌱 I’m currently Working on Mobile App(React-Native)
+- 🌱 Estoy estudiando y practicando mi lenguaje en Python y SQL.
 
-- 🤝 I’m available for freelancing.
+- 🤝 Me apasiona el automatizar procedimientos.
 
-- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
+- 🌱 
 
 - 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
 
